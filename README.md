@@ -50,7 +50,7 @@ They want us to create a mathematical, data driven solutions that can do this ac
         1. Removing the outlier variable ASK_AMT in the dataset used in initial deep learning model
         2. Changing the bin size of APPLICATION_TYPE and CLASSIFICATION variables
         3. Changing the number of neurons in hidden layers
-        4. Adding a third hidden_layer 
+        4. Adding a another hidden_layer 
         5. Changing the optimization function
        
        
